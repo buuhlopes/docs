@@ -1,7 +1,7 @@
 ---
 sidebar_position: 5
 sidebar_label: DevPortal Installation
-title: DevPortal Installation
+title: Installing the DevPortal
 ---
 
 In this step, you will install DevPortal by configuring GitHub credentials and integrating them into the Kubernetes environment. This process includes creating an OAuth application on GitHub and generating an access token.

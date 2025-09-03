@@ -1,3 +1,8 @@
+---
+sidebar_position: 1
+sidebar-label: FAQs
+title: FAQs
+---
 # FAQs
 
 # What can I do in the Demo Journey?

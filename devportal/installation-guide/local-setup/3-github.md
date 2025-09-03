@@ -1,7 +1,7 @@
 ---
 sidebar_position: 4
 sidebar_label: Github Token
-title: Github Personal Token
+title: Github personal Token
 ---
 
 In this step you will obtain a Github personal token for the DevPortal to connect to Github.

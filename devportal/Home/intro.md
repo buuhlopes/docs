@@ -1,33 +1,43 @@
 ---
-sidebar_position: 1
-sidebar_label: Intro to DevPortal
-title: Intro to DevPortal
+sidebar_position: 0
+sidebar_label: Home
+title: Home
 ---
 
 import style from './style.module.css';
 
-# Intro
+# Welcome to the official documentation of the **VeeCode DevPortal**.
+
+Here you’ll find everything you need to **understand, install, and use** the platform in a simple and practical way.
 
 :::tip
 This documentation is being updated to our latest release supporting dynamic plugins. Keep in touch and, by all means, file PRs to help us improve it.
 :::
 
-Welcome to VeeCode Developer Portal documentation! This document will guide you through our Developer Portal, which is a modern and open-source Platform Engineering solution designed to help organizations better manage their API and service ecosystems.
+![Optional Image Description](/img/home/home1.png)
 
-### What is VeeCode DevPortal?
+## What is the DevPortal?
 
-VeeCode DevPortal is an open-source platform built on top of [Backstage](https://backstage.io), an open-source developer portal framework created by Spotify. Backstage has a growing community and is being used by many organizations, including large technology companies like Google, Microsoft, and Verizon.
+The **VeeCode DevPortal** is a platform designed to **centralize and organize your company’s development ecosystem**.
 
-VeeCode DevPortal is a Backstage distro that provides a production-grade portal on day one: catalog, software templates, tech docs, search, and SSO already wired.
+It provides teams with a **unified view of services, APIs, templates, and documentation**, promoting autonomy and standardization.
 
-### Here are some key points about the Developer Portal
+With the DevPortal you can:
 
-- It is a powerful tool that helps developers' self-service experience when developing APIs and services
-- It is a catalog of software and IaC templates for autonomous teams to use
-- It is an API showcase and governance tool for both developers and business partners
-- It simplifies DevOps adoption and scaling, removing cognitive load from average teams
+- 📚 Catalog and explore services and APIs in one place
+- ⚡ Create new projects from ready-to-use templates
+- 🔒 Manage access and permissions (RBAC)
+- 🔗 Integrate with tools like GitHub, GitLab, Kong, and CI/CD pipelines
+- 🔍 Centralize documentation from all teams and repositories
 
-This documentation guide aims to help you understand the workings of the Developer Portal, how to use it, and how to customize it to meet your specific needs. Here are some of the topics covered in this guide:
+## How to navigate this documentation
+
+- **Why DevPortal** → Why adopt the DevPortal
+- **Installation** → Step-by-step guide
+- **About the product** → Features and architecture
+- **How to use** → Practical, everyday examples
+- **FAQ** → Frequently asked questions
+- **Support** → Where to get help
 
 <div className={style.wrapper}>
 

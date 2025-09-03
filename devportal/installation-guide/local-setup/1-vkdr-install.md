@@ -1,7 +1,7 @@
 ---
 sidebar_position: 2
-sidebar_label: VKDR Installation
-title: VKDR Installation
+sidebar_label: Installing VKDR
+title: Installing VKDR
 ---
 
 In this section you will learn how to install and initialize `vkdr`, an [open-source](https://github.com/veecode-platform/vkdr) lightweight CLI tool that allows safely running VeeCode DevPortal in a local containerized and isolated environment.
@@ -11,7 +11,6 @@ VKDR stands for "VeeCode Kubernetes Development Runtime", a simple command-line 
 :::
 
 ## Prerequisites
-
 Before you begin, ensure the following prerequisites are met:
 
 - A Linux or OSX shell (Windows users can use WSL).

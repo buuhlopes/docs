@@ -1,7 +1,7 @@
 ---
 sidebar_position: 3
 sidebar_label: Infrastructure Configuration
-title: Infrastructure Configuration
+title: Configuring the Infrastructure
 ---
 
 In this step, you will start the local cluster that will run DevPortal and its dependencies, emulating a real cloud scenario.

@@ -15,7 +15,7 @@ export const your_domain = "devportal.yourdomain.com";
 
 Welcome to the VeeCode Platform DevPortal complete product installation guide. This guide will help you install the product. You will need an Kubernetes cluster for this installation.
 
-## **Overview**
+## Overview
 
 This guide will cover the following steps:
 
